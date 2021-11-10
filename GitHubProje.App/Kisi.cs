@@ -8,5 +8,6 @@ namespace GitHubProje.App
 {
     public class Kisi
     {
+       
     }
 }
