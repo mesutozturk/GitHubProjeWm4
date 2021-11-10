@@ -1,7 +1,6 @@
-﻿
-namespace GitHubProje.App.Oguzhan
+﻿namespace GitHubProje.App
 {
-    partial class PatlatanForm
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -29,32 +28,12 @@ namespace GitHubProje.App.Oguzhan
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnPatlamaButon = new System.Windows.Forms.Button();
-            this.SuspendLayout();
-            // 
-            // btnPatlamaButon
-            // 
-            this.btnPatlamaButon.Location = new System.Drawing.Point(12, 12);
-            this.btnPatlamaButon.Name = "btnPatlamaButon";
-            this.btnPatlamaButon.Size = new System.Drawing.Size(291, 179);
-            this.btnPatlamaButon.TabIndex = 0;
-            this.btnPatlamaButon.Text = "Patlayacak";
-            this.btnPatlamaButon.UseVisualStyleBackColor = true;
-            // 
-            // PatlatanForm
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnPatlamaButon);
-            this.Name = "PatlatanForm";
-            this.Text = "PatlatanForm";
-            this.ResumeLayout(false);
-
+            this.Text = "Form2";
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btnPatlamaButon;
     }
 }
