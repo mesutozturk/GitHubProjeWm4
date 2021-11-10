@@ -10,5 +10,7 @@ namespace GitHubProje.App
     {
         public string Ad { get; set; }
         public string Soyad { get; set; }
+        public string Memleket { get; set; }
+
     }
 }
