@@ -34,7 +34,7 @@ namespace GitHubProje.App.Oguzhan
             // 
             // btnPatlamaButon
             // 
-            this.btnPatlamaButon.Location = new System.Drawing.Point(225, 116);
+            this.btnPatlamaButon.Location = new System.Drawing.Point(12, 12);
             this.btnPatlamaButon.Name = "btnPatlamaButon";
             this.btnPatlamaButon.Size = new System.Drawing.Size(291, 179);
             this.btnPatlamaButon.TabIndex = 0;

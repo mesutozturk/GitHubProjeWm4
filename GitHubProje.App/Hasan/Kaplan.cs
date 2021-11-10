@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GitHubProje.App.Hasan
+﻿namespace GitHubProje.App.Hasan
 {
     class Kaplan
     {
+        public string Aslan { get; set; }
     }
 }
