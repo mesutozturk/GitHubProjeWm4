@@ -8,5 +8,6 @@ namespace GitHubProje.App.Serap
 {
     public class CengizErgun
     {
+        public int Kalem { get; set; }
     }
 }

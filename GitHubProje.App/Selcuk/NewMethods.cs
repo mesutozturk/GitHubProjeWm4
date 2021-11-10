@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Cengiz
+ namespace GitHubProje.App.Selcuk
 {
-    public class Gizem
+    public class NewMethods
     {
-        public string Ad { get; set; }
+        public NewMethods()
+        {
+
+        }
     }
 }
