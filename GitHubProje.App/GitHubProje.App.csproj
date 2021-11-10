@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Hasan\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Deneme\" />
   </ItemGroup>
 

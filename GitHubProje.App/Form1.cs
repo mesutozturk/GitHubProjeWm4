@@ -16,6 +16,5 @@ namespace GitHubProje.App
         {
             InitializeComponent();
         }
-
     }
 }
