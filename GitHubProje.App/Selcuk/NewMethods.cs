@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Hasan
+ namespace GitHubProje.App.Selcuk
 {
-    public  class Deneme2
+    public class NewMethods
     {
-        public  DateTime Selcuk { get; set; }
-        
+        public NewMethods()
+        {
+          
+        }
     }
 }

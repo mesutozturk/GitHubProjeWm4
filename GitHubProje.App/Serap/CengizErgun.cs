@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Fulya
+namespace GitHubProje.App.Serap
 {
-    internal class SariyarAbdullah
+    public class CengizErgun
     {
+        public int Id { get; set; }
         public string Ad { get; set; }
         public string Soyad { get; set; }
-
-
+        public int Kalem { get; set; }
     }
 }

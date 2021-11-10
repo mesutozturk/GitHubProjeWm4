@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Gizem
+namespace GitHubProje.App.Fatma
 {
-    public class Demir
+    class Ünlü
     {
-        public Demir()
+        public void Topla(int sayi1, int sayi2)
         {
-
+            int sonuc = sayi1 + sayi2;
         }
-        public int CengizInt { get; set; }        
     }
 }
