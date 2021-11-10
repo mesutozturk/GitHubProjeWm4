@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Serap
+namespace GitHubProje.App.Berna
 {
-    public class CengizErgun
+    public class Uzunoglu
     {
-        public int Kalem { get; set; }
     }
 }

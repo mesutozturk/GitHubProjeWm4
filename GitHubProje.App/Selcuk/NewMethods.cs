@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Serap
+ namespace GitHubProje.App.Selcuk
 {
-    public class CengizErgun
+    public class NewMethods
     {
-        public int Kalem { get; set; }
+        public NewMethods()
+        {
+
+        }
     }
 }
