@@ -8,5 +8,9 @@ namespace GitHubProje.App.Berna
 {
     public class Uzunoglu
     {
+        public void Naber()
+        {
+
+        }
     }
 }
