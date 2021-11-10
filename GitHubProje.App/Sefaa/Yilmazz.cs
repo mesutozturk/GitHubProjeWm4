@@ -9,6 +9,7 @@ namespace GitHubProje.App.Sefaa
     public class Yilmazz
     {
         public string SIVAS { get; set; }
+        public string Adana { get; set; }
     }
 
 }
