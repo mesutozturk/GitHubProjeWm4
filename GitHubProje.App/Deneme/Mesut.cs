@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Hasan
+namespace GitHubProje.App.Deneme
 {
-    public  class Deneme2
+    public class Mesut
     {
-        public  DateTime Selcuk { get; set; }
-        
+        public int Id { get; set; }
     }
 }
