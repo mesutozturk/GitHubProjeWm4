@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App
+namespace GitHubProje.App.Hasan
 {
-    public class Kisi
+    internal class Deneme2
     {
-        public string Ad { get; set; }
-        public string Soyad { get; set; }
     }
 }
