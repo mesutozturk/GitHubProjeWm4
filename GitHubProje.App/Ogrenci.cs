@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubProje.App
 {
-    public class Kisi
+    public class Ogrenci
     {
-        public string Ad { get; set; }
-        public string Soyad { get; set; }
     }
 }
