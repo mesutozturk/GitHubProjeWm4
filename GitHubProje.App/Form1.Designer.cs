@@ -48,7 +48,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(442, 223);
+            this.button2.Location = new System.Drawing.Point(459, 168);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(189, 103);
             this.button2.TabIndex = 1;
