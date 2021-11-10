@@ -10,6 +10,7 @@ namespace GitHubProje.App.Sefaa
     {
         public string SIVAS { get; set; }
         public string Adana { get; set; }
+
     }
 
 }
