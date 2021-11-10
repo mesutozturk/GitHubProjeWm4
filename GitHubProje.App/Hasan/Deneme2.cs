@@ -8,5 +8,6 @@ namespace GitHubProje.App.Hasan
 {
     internal class Deneme2
     {
+        public int Deneme { get; set; }
     }
 }
