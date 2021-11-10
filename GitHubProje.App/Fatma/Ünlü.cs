@@ -8,5 +8,9 @@ namespace GitHubProje.App.Fatma
 {
     class Ünlü
     {
+        public void Topla(int sayi1, int sayi2)
+        {
+            int sonuc = sayi1 + sayi2;
+        }
     }
 }
