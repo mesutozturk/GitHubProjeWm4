@@ -8,5 +8,10 @@ namespace GitHubProje.App.Gizem
 {
     public class Demir
     {
+        public Demir()
+        {
+
+        }
+        public int CengizInt { get; set; }        
     }
 }
