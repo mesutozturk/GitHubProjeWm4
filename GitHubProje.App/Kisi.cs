@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubProje.App
 {
-    internal class Kisi
+    public class Kisi
     {
     }
 }
