@@ -8,5 +8,9 @@ namespace GitHubProje.App.Fulya
 {
     internal class SariyarAbdullah
     {
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+
+
     }
 }

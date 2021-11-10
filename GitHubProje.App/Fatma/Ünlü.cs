@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Berna
+namespace GitHubProje.App.Fatma
 {
-    public class Uzunoglu
+    class Ünlü
     {
-        public void Naber()
+        public void Topla(int sayi1, int sayi2)
         {
-
+            int sonuc = sayi1 + sayi2;
         }
     }
 }

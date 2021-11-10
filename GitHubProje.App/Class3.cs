@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App.Berna
+namespace GitHubProje.App
 {
-    public class Uzunoglu
+    internal class Class3
     {
-        public void Naber()
-        {
-
-        }
     }
 }
