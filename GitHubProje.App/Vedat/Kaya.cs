@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubProje.App
+namespace GitHubProje.App.Vedat
 {
-    public class Kisi
+    public class Kaya
     {
         public string Ad { get; set; }
         public string Soyad { get; set; }
-        public string Memleket { get; set; }
-
+        public double Maas { get; set; }
     }
 }
