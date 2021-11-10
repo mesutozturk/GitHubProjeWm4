@@ -8,5 +8,7 @@ namespace GitHubProje.App
 {
     public class Kisi
     {
+        public string Memleket { get; set; }
+
     }
 }
