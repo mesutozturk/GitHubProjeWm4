@@ -8,5 +8,8 @@ namespace GitHubProje.App.Vedat
 {
     public class Kaya
     {
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+        public double Maas { get; set; }
     }
 }
