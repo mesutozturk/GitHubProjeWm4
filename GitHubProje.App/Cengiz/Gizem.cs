@@ -8,5 +8,6 @@ namespace GitHubProje.App.Cengiz
 {
     public class Gizem
     {
+        public string Ad { get; set; }
     }
 }
