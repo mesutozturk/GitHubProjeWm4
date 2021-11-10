@@ -8,8 +8,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
 	  <Folder Include="Deneme\" />
 	  <Folder Include="Hasan\" />
+	  <Folder Include="obj\Debug\net5.0-windows\ref\" />
+	  <Folder Include="obj\Release\net5.0-windows\ref\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net5.0-windows\GitHubProje.App.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net5.0-windows\GitHubProje.App.assets.cache" />
+    <None Include="obj\Debug\net5.0-windows\GitHubProje.App.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0-windows\GitHubProje.App.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\GitHubProje.App.csproj.nuget.g.props" />
+    <None Include="obj\GitHubProje.App.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net5.0-windows\GitHubProje.App.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net5.0-windows\GitHubProje.App.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\net5.0-windows\GitHubProje.App.GeneratedMSBuildEditorConfig.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>

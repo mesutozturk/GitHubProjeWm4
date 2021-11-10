@@ -8,6 +8,6 @@ namespace GitHubProje.App.Oguzhan
 {
     public class Topbas
     {
-        
+        public bool AdamMi => true;
     }
 }
