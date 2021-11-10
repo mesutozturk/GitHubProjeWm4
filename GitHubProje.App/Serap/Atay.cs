@@ -8,5 +8,6 @@ namespace GitHubProje.App.Serap
 {
     public class Atay
     {
+        public int Id { get; set; }
     }
 }
