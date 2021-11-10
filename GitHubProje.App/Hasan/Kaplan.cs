@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubProje.App.Hasan
 {
-    public  class Deneme2
+    class Kaplan
     {
-        public  DateTime Selcuk { get; set; }
-        
     }
 }
