@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubProje.App.Oguzhan
 {
-    class Topbas
+    public class Topbas
     {
+
+        public bool AdamMi => true;//tşk kanka
     }
 }
