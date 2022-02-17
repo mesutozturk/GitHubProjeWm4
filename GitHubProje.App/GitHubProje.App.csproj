@@ -32,4 +32,12 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Berna\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fulya\" />
+  </ItemGroup>
+
 </Project>
