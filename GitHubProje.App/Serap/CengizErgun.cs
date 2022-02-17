@@ -8,7 +8,7 @@ namespace GitHubProje.App.Serap
 {
     public class CengizErgun
     {
-        public int OOOOOO { get; set; }
+        public int Ads { get; set; }
         public string Ad { get; set; }
         public string Soyad { get; set; }
         public int Kalem { get; set; }
